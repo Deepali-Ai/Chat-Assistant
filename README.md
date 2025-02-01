@@ -4,10 +4,10 @@ The app includes a simple UI where users can type natural language queries, and 
 
 # Project Structure:
 chat-assistant
-├── company.db            # SQLite database file
-├── app.py               # Flask application
-├── requirements.txt      # Python dependencies
-├── README.md              # Project documentation
+ ├── company.db             # SQLite database file
+ ├── app.py                 # Flask application
+ ├── requirements.txt       # Python dependencies
+ ├── README.md              # Project documentation
 
 # Features:
 * Accepts natural language queries
@@ -16,7 +16,7 @@ chat-assistant
 
 # Installation:
 1. Clone the repo:
-   git clone 
+   git clone https://github.com/Deepali-Ai/Chat-Assistant.git
    cd chatbot
 2. Install dependencies:
    pip install -r requirements.txt
