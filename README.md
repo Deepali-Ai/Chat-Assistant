@@ -3,7 +3,7 @@ This is a FastAPI-powered web application that allows users to query an SQLite d
 The app includes a simple UI where users can type natural language queries, and it returns results in a user-friendly format.
 
 # Project Structure:
-  /chat-assistant
+## chat-assistant
   - app.py( Flask application)
   - company.db(SQLite database)
   - requirements.txt(List of dependencies)
@@ -21,7 +21,7 @@ The app includes a simple UI where users can type natural language queries, and 
 2. Install dependencies:
    pip install -r requirements.txt
 3. Run the app:
-   sqlite run app.py
+   streamlit run app.py
 
 # Supported Queries:
 Once deployed or running locally, you can interact with the app through the following types of queries:
