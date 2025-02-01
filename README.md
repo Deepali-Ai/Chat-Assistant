@@ -4,10 +4,10 @@ The app includes a simple UI where users can type natural language queries, and 
 
 # Project Structure:
   /chat-assistant
-  ├── app.py            # Flask application
-  ├── company.db        # SQLite database
-  ├── requirements.txt  # List of dependencies
-  └── README.md         # Project documentation
+  - app.py            # Flask application
+  - company.db        # SQLite database
+  - requirements.txt  # List of dependencies
+  - README.md         # Project documentation
 
 # Features:
 * Accepts natural language queries
